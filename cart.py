@@ -2,8 +2,6 @@
 import random as rd
 import sys
 
-# ip = """ The function call return x.replace(/^\s+|\s+$/gm,''); searches for any spaces from the beginning of the string and from the end of string. If found then it is replaced by empty string ''. Simply said it does the trim whitespace characters:
-# """
 
 ip = ""
 

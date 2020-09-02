@@ -1,2 +1,5 @@
 # CartineseBot
-A reddit bot that translates comments into cartinese
+
+![](carti.gif)
+
+A* !! reddit bot that💕+ translates* ok !+ comments into cartinese

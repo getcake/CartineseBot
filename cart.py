@@ -31,7 +31,6 @@ cartinese = [" ++** ",      #1
 
 def translate(ip):
     op = str(ip.split(' '))
-    z = ''
     with open('test.txt', 'w') as test:
         for word in op:
 
